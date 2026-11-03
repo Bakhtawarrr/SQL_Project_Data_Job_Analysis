@@ -103,7 +103,7 @@ Here are the findings for the skills required in top-paying data scientist roles
 * **Cloud Infrastructure Proficiency:** Familiarity with cloud platforms is prominently required, with multi-cloud skills spanning AWS, GCP, and Azure to support scalable data workflows and infrastructure deployment.
 * **Big Data and Distributed Computing Tools:** Ecosystems designed for large-scale data processing—such as Spark, Hadoop, Cassandra, and deployment tools like Kubernetes—are highly favored by firms offering premium compensation packages.
 
-![Top Paying Roles](assets\top_paying_skills.png)
+![Top Paying Skills](assets/top_paying_skills.png)
 *Bar graph visualizing the skills for the top paid data scientists; ChatGPT generated this graph from my SOL query results*
 
 ### 3. Skills Most in Demand for Data Scientists
@@ -133,7 +133,7 @@ limit 5
 * **Cloud Infrastructure Baseline:** AWS leads the cloud platform requirements with 2,593 mentions, indicating that companies heavily value data scientists who can navigate, scale, and deploy models directly within cloud environments.
 * **Enterprise Reporting and Visualization:** Tableau rounds out the top five with 2,458 mentions, confirming that clear business intelligence delivery, executive dashboarding, and data storytelling are essential competencies.
 
-![Top Demanded Skills](assets\top_demanded_skilld.png)
+![Top Demanded Skills](assets/top_demanded_skilld.png)
 *Bar graph visualizing the top demanded skills for  data scientists; ChatGPT generated this graph from my SOL query results*
 
 ### 4. Highest-Paying Skills for Data Scientists
@@ -242,3 +242,4 @@ Throughout this analysis project, I have significantly advanced my technical dat
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data science job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data scientists can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data science.
+
